@@ -6,6 +6,11 @@ div.app {
 
 h1 {
     text-align: center;
+    padding: 1rem;
+}
+
+header {
+    padding; 2rem;
 }
 
 ul {

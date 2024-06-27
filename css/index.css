@@ -1,7 +1,25 @@
+div.app {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
 h1 {
     text-align: center;
 }
 
-div.app {
-    width: 50vw;
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.5rem;
+
+    padding: 1rem;
+
+
+
+    /* gap: 10px;
+    gap: 10px 20px;
+    row-gap: 10px;
+    column-gap: 20px; */
 }

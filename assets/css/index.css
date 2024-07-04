@@ -6,12 +6,8 @@
 
 ul.flt-info {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: auto auto;
     gap: 1rem;
     
     margin-bottom: 2rem;
-}
-
-div.arrival {
-    display: fle;
 }

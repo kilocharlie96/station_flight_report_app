@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul.flt-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    
+    margin-bottom: 2rem;
+}
+
+div.arrival {
+    display: fle;
+}

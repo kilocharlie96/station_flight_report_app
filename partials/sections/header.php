@@ -11,6 +11,6 @@
 </head>
 
 <body>
-    <div class="app p-3 is-size-7">
-        <h1 class="m-4">STATION FLIGHT REPORT</h1>
+    <div class="m-2">
+        <h1 class="is-size-5 m-4 has-text-centered">STATION FLIGHT REPORT</h1>
             <header>

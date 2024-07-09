@@ -12,5 +12,5 @@
 
 <body>
     <div class="m-2">
-        <h1 class="is-size-5 m-4 has-text-centered">STATION FLIGHT REPORT</h1>
+        <h1 class="title is-5 m-4 has-text-centered">STATION FLIGHT REPORT</h1>
             <header>

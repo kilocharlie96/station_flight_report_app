@@ -135,8 +135,8 @@
 </ul>
 
 <h3 class="subtitle is-6 m-0">DOOR CLOSED</h3>
-<ul class="grid">
-    <li>
+<ul class="columns">
+    <li class="column is-half">
         <label for="pax-out">START</label>
         <input class="input is-small" type="text" name="pax-out" id="pax-out">
         <button class="button is-success mt-3">SET TIME</button>

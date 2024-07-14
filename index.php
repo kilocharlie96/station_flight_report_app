@@ -5,16 +5,18 @@
 <?php include 'partials\sections\arrival.php'; ?>
 
 <?php include 'partials\sections\departure.php'; ?>
-   
+
                 
         </header>
 
         <main>
             <?php include 'partials\sections\fuel-figures.php'; ?>
             <?php include 'partials\sections\turnaround-times.php'; ?>
+
+            <h2 class="subtitle mt-6">DELAY CODES</h2>
+
             <?php include 'partials\sections\delays.php'; ?>
         </main>
     </div>
-
 </body>
 </html>

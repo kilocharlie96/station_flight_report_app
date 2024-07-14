@@ -1,7 +1,7 @@
 <div id="delay" class="delay">
 
 
-    <h3 class="subtitle">Delay #</h3>
+    <h3 class="subtitle">Delay #1</h3>
     <div class="delay-codes">
         <ul class="grid">
             <li>
@@ -22,7 +22,6 @@
             </li>
         </ul>
     </div>
-    
-    <button class="addButton button is-info mt-4">+</button>
-    
 </div>
+
+<button class="addButton button is-info mt-4">+</button>

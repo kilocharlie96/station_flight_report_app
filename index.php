@@ -16,6 +16,7 @@
             <h2 class="subtitle mt-6">DELAY CODES</h2>
 
             <?php include 'partials\sections\delays.php'; ?>
+            <?php include 'partials\sections\services.php'; ?>
         </main>
     </div>
 

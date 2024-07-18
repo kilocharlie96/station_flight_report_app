@@ -17,9 +17,11 @@
 
             <?php include 'partials\sections\delays.php'; ?>
             <?php include 'partials\sections\services.php'; ?>
+            <?php include 'partials\sections\de-icing.php'; ?>
         </main>
     </div>
 
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/setTime.js"></script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 <div class="fixed-grid has-3-cols mt-6">
     <ul class="grid">
         <li>
-            <label for="arr">ARRIVAL</label>
+            <label class="has-text-weight-bold" for="arr">ARRIVAL</label>
             <input class="input" type="text" name="arr" id="arr" placeholder="IATA code">
         </li>
         <li>
@@ -15,3 +15,5 @@
     </ul>
 
     <?php include 'pax-and-cargo.php'; ?>
+
+</div>

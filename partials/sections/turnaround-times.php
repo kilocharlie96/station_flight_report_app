@@ -4,12 +4,12 @@
 <ul class="grid">
     <li>
         <label for="pax-out-start">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="pax-out-start">
+        <input class="input is-small" type="time" name="pax-out" id="pax-out-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out-end">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="pax-out-end">
+        <input class="input is-small" type="time" name="pax-out" id="pax-out-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -18,12 +18,12 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="bags-out-start">
+        <input class="input is-small" type="time" name="pax-out" id="bags-out-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="bags-out-end">
+        <input class="input is-small" type="time" name="pax-out" id="bags-out-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -32,12 +32,12 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="cleaning-start">
+        <input class="input is-small" type="time" name="pax-out" id="cleaning-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="cleaning-end">
+        <input class="input is-small" type="time" name="pax-out" id="cleaning-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -46,12 +46,12 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="catering-start">
+        <input class="input is-small" type="time" name="pax-out" id="catering-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="catering-end">
+        <input class="input is-small" type="time" name="pax-out" id="catering-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -60,12 +60,12 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="fueling-start">
+        <input class="input is-small" type="time" name="pax-out" id="fueling-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="fueling-end">
+        <input class="input is-small" type="time" name="pax-out" id="fueling-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -74,7 +74,7 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="gate-open">
+        <input class="input is-small" type="time" name="pax-out" id="gate-open">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
 </ul>
@@ -83,7 +83,7 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="crew-boarding">
+        <input class="input is-small" type="time" name="pax-out" id="crew-boarding">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
 </ul>
@@ -92,7 +92,7 @@
 <ul class="grid">
     <li>
         <label for="pax-out">START</label>
-        <input class="input is-small" type="text" name="pax-out" id="cab-clearance">
+        <input class="input is-small" type="time" name="pax-out" id="cab-clearance">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
 </ul>
@@ -101,12 +101,12 @@
 <ul class="grid">
     <li>
         <label for="pax-in-start">START</label>
-        <input class="input is-small" type="text" name="pax-in-start" id="pax-in-start">
+        <input class="input is-small" type="time" name="pax-in-start" id="pax-in-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="pax-out">END</label>
-        <input class="input is-small" type="text" name="pax-out" id="pax-in-end">
+        <input class="input is-small" type="time" name="pax-out" id="pax-in-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -115,12 +115,12 @@
 <ul class="grid">
     <li>
         <label for="bags-in-start">START</label>
-        <input class="input is-small" type="text" name="bags-in-start" id="bags-in-start">
+        <input class="input is-small" type="time" name="bags-in-start" id="bags-in-start">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
     <li>
         <label for="bags-in-end">END</label>
-        <input class="input is-small" type="text" name="bags-in-end" id="bags-in-end">
+        <input class="input is-small" type="time" name="bags-in-end" id="bags-in-end">
         <?php include 'partials\buttons\end.php'; ?>
     </li>
 </ul>
@@ -129,7 +129,7 @@
 <ul class="grid">
     <li>
         <label for="doc-ob">START</label>
-        <input class="input is-small" type="text" name="doc-ob" id="doc-ob">
+        <input class="input is-small" type="time" name="doc-ob" id="doc-ob">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
 </ul>
@@ -138,7 +138,7 @@
 <ul class="columns">
     <li class="column is-half">
         <label for="door-closed">START</label>
-        <input class="input is-small" type="text" name="door-closed" id="door-closed">
+        <input class="input is-small" type="time" name="door-closed" id="door-closed">
         <?php include 'partials\buttons\start.php'; ?>
     </li>
 </ul>

@@ -5,12 +5,17 @@
             <input class="input" type="text" name="arr" id="arr" placeholder="IATA code">
         </li>
         <li>
-            <label for="">STA</label>
-            <input class="input" type="text" name="sta" id="sta">
+            <label for="sta">STA</label>
+            <input class="input" type="time" name="sta" id="sta">
         </li>
         <li>
-            <label for="">ATA</label>
-            <input class="input" type="text" name="ata" id="ata">
+            <label for="ata">ATA</label>
+            <input class="input" type="time" name="ata" id="ata">
+            <?php include 'partials\buttons\start.php'; ?>
+        </li>
+        <li>
+            <label for="ttl-dly">TOTAL DELAY</label>
+            <input class="input" type="time" name="ttl-dly" id="ttl-dly" disabled>
         </li>
     </ul>
 

@@ -23,5 +23,6 @@
 
     <script src="assets/js/add-delay.js"></script>
     <script src="assets/js/setTime.js"></script>
+    <script src="assets/js/ttlDelay.js"></script>
 </body>
 </html>

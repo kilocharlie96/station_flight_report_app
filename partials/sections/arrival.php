@@ -13,10 +13,6 @@
             <input class="input" type="time" name="ata" id="ata">
             <?php include 'partials\buttons\start.php'; ?>
         </li>
-        <li>
-            <label for="ttl-dly">TOTAL DELAY</label>
-            <input class="input" type="time" name="ttl-dly" id="ttl-dly" disabled>
-        </li>
     </ul>
 
     <?php include 'pax-and-cargo.php'; ?>

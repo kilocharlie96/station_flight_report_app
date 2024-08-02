@@ -72,7 +72,7 @@
 
 <h3 class="subtitle is-6 m-0">GATE OPEN</h3>
 <ul class="grid">
-    <li>
+    <li class="start-only">
         <label for="pax-out">START</label>
         <input class="input is-small" type="time" name="pax-out" id="gate-open">
         <?php include 'partials\buttons\start.php'; ?>
@@ -81,7 +81,7 @@
 
 <h3 class="subtitle is-6 m-0">CREW BOARDING</h3>
 <ul class="grid">
-    <li>
+    <li class="start-only">
         <label for="pax-out">START</label>
         <input class="input is-small" type="time" name="pax-out" id="crew-boarding">
         <?php include 'partials\buttons\start.php'; ?>
@@ -90,7 +90,7 @@
 
 <h3 class="subtitle is-6 m-0">CABIN CLEARANCE</h3>
 <ul class="grid">
-    <li>
+    <li class="start-only">
         <label for="pax-out">START</label>
         <input class="input is-small" type="time" name="pax-out" id="cab-clearance">
         <?php include 'partials\buttons\start.php'; ?>
@@ -127,7 +127,7 @@
 
 <h3 class="subtitle is-6 m-0">DOCUMENTATION OB</h3>
 <ul class="grid">
-    <li>
+    <li class="start-only">
         <label for="doc-ob">START</label>
         <input class="input is-small" type="time" name="doc-ob" id="doc-ob">
         <?php include 'partials\buttons\start.php'; ?>
@@ -136,7 +136,7 @@
 
 <h3 class="subtitle is-6 m-0">DOOR CLOSED</h3>
 <ul class="columns">
-    <li class="column is-half">
+    <li class="start-only">
         <label for="door-closed">START</label>
         <input class="input is-small" type="time" name="door-closed" id="door-closed">
         <?php include 'partials\buttons\start.php'; ?>

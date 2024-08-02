@@ -13,6 +13,10 @@
             <input class="input" type="time" name="atd" id="atd">
             <?php include 'partials\buttons\start.php'; ?>
         </li>
+        <li>
+            <label for="ttl-dly">TOTAL DELAY</label>
+            <input class="input" type="time" name="ttl-dly" id="ttl-dly" disabled value="Work in progress">
+        </li>
     </ul>
 
 

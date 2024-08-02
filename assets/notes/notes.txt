@@ -1,0 +1,1 @@
+skusit spravit len button a potom mu pridať funkciu v metode

@@ -135,7 +135,7 @@
 </ul>
 
 <h3 class="subtitle is-6 m-0">DOOR CLOSED</h3>
-<ul class="columns">
+<ul class="grid">
     <li class="start-only">
         <label for="door-closed">START</label>
         <input class="input is-small" type="time" name="door-closed" id="door-closed">
